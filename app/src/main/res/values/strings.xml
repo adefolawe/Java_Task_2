@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name: Mark Okhakumhe</string>
+    <string name="slack_id">Slack ID: adefolawe</string>
+    <string name="email">Email: markadefolawe@gmail.com</string>
+    <string name="likes">Reading \nLearning \nCooking \nSwimming \nListening to music</string>
+    <string name="dislikes">Stress \nStress again</string>
+    <string name="hobbies">Reading \nDIY \nListening to music \nPlaying Video games</string>
+    <string name="hobbies_header">HOBBIES</string>
+    <string name="dislikes_header">DISLIKES</string>
+    <string name="likes_header">LIKES</string>
+</resources>
